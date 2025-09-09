@@ -1,0 +1,47 @@
+<br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">What is the typical rental duration for your portable toilets in #State?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We offer flexible rental durations, from single-day event rentals to long-term contracts for construction sites. We tailor our rental plans to meet your specific project or event timeline.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How far in advance should I book my portable toilet rental?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We recommend booking as far in advance as possible, especially for large events or during peak seasons, to ensure availability. For smaller needs, a few days' notice is often sufficient.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Are your portable toilets in #State cleaned and sanitized regularly?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;"> Absolutely. All our units undergo a rigorous multi-point cleaning and sanitization process before each delivery. For long-term rentals, we provide scheduled servicing to maintain optimal hygiene.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you offer hand sanitizer with your portable toilets?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Many of our units come equipped with hand sanitizer dispensers. We also offer separate portable handwashing stations for comprehensive hygiene solutions.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How do I determine the right number of portable toilets for my event or project?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The ideal number depends on factors like the number of attendees/workers, event duration, and whether food/drinks are served. Our experts can help you calculate the optimal quantity based on industry guidelines to ensure adequate facilities. We can help you understand the cost of porta potty rental in #State for your specific needs.</p>
+                <div class="callalooma mx-auto"><a href="tel:888-341-5226">Click Here To Call Us (888) 341-5226</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+    
+    
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
